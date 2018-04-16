@@ -1,0 +1,39 @@
+Tries
+
+Bitset
+
+Disjoint Set
+
+Segment Tree
+  implicit
+  persistent
+
+BIT
+  Binary searching BIT/ST log(n)
+
+Min/Max Queue
+  MedianQueue
+  
+Bloom Filter
+
+Treap
+
+Wavelet Tree
+
+KD Tree
+
+Splay Tree
+
+Link Cut Tree
+
+Red-Black Tree
+
+Sparse Table
+
+Interval Tree
+
+Quadtrees
+
+Heavy-Light Decomposition
+
+Binomial Heaps (w/ Lazy Melding)
