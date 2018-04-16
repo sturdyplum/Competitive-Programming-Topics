@@ -1,0 +1,59 @@
+Prime Sieve
+
+GCD / LCM
+
+Euclid’s Extended Algorithm
+
+Choose (Binomial Coefficients)
+
+Multi-Choose
+
+Pigeon Hole principle
+
+CRT
+
+Linear diophantine equations
+
+Modular Inverse
+
+Number sequence
+
+Gaussian Elimination
+  Count subsets that xor to a value (2rank)
+
+BigInteger / BigDecimal
+
+Fractions
+
+Pollard-Rho
+
+Miller-Rabin
+
+FFT (Fast Fourier Transform)
+
+FHT (Fast Hadamard Transformation)
+
+FSC (Fast Subset Convolution)
+
+Lucas
+
+Burnside Lemma
+
+Generating Functions
+
+Divisors
+
+Inclusion Exclusion (Mobius inversion)
+
+Stern Brocot Tree
+
+Fermat’s Little Theorem
+
+GCD only changes log(n) times in a list
+
+Generating partial Pascal Triangles
+
+Extreme precise FFT (Michael Kirsche sqrt technique)
+
+Count divisors in cubed root(n)
+  Factorize up to the cubed root, then whatevers left is prime, square of prime, or product of two; isProbablePrime n, isProbablePrime sqrt(n), fall back to product of two primes
