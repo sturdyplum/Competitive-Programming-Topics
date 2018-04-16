@@ -1,0 +1,24 @@
+BFS (0/1)
+
+DFS
+
+Dijkstra’s
+
+Split node
+
+Dijkstra’s with AND edges
+
+Johnson’s (potential)
+
+Floyd Warshall (DP?)
+
+Bellman-Ford (SPFA)
+
+K shortest path problem (Yen’s Algorithm)
+
+Shortest paths on Segment trees (When adding edges to a range)
+
+Supernodes
+
+E * log(number of unique edge weights) dijkstra’s
+  Priority Queue of queues, have a different queue for every edge weight
