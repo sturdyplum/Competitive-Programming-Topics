@@ -1,0 +1,49 @@
+Longest Increasing Subsequence
+  2D LIS: sort increasing x, tiebreak by decreasing y; then take LIS on y
+  Extract LIS: Keep pointers to who you would attach to, then work backwards from the last boy
+
+Longest Common Substring
+
+Matrix Chain Multiplication
+
+Edit Distance
+
+Subset Sum
+
+Knapsack
+  0/1
+  0/inf
+  0/k (MinQueue)
+  On tree
+  
+Bitmask
+
+Rolling Bitmask
+
+Probability DP
+
+Optimizations
+  Convex Hull
+  Divide and Conquer
+  Knuth
+  
+On Trees
+  Convoluting Children
+  
+Fast Matrix Exponentiation
+
+Digit DP
+  (don’t memoize until unbounded) (Align Right Trick?)
+  Binary Search (find kth special number)
+  
+Space Saving
+
+Versioning
+
+Bitonic TSP
+
+Inverted state
+
+Implicit state
+
+DP with a large transition, must take a minimum amount: might be able to do an O(1) take minimum amount transition, and an O(1) extend amount by 1 transition
