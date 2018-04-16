@@ -1,0 +1,50 @@
+Towers of Hanoi
+
+Counting Inversions
+
+Shunting 
+
+Thread Trick (Java stack increase)
+
+Log Trick
+
+Compare products or exponents (compare a^b with c^d for example)
+
+FFT where indices multiply, log all the indices then use regular FFT
+
+Median Trick
+
+Pitcher pouring
+
+DFA
+  DFA minimization
+  DFA equality
+  NFA to DFA [ASC 46 F]
+
+Regex
+
+Cheapest sort with moves
+  LIS will stay in their spots, everything else moves
+
+Cheapest sort with swaps
+  For each permutation cycles, add length-1 (rotate the cycle)
+
+Delta / Offset trick
+  Keep delta for some DS, apply -delta to anything you insert
+
+Slope trick
+  Keep track of points where slope changes, optimal is slope 0
+
+Coordinate Compression
+
+Average Trick
+  Binary search sum/n>=avg  ->  sum>=avg*n  ->  sum-avg*n>=0
+
+Facebook trick
+  Check if a subarray summing to a value exists, prefix hashsets
+
+Flipping Cost Negation
+  If operation to pay for is flipping: flip negatives, take cost, make positive
+
+Maximum Rectangular Area in a Histogram (Maximum Perimeter)
+
